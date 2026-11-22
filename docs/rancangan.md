@@ -14,7 +14,7 @@ gerbang persetujuan manusia untuk aksi keluar.
    berbayar. Jika kuota gratis habis, tugas mengantre atau pindah ke
    cadangan, bukan naik paket.
 2. **Sub-agent Muse saja** — ruang diisi sub-agent Muse yang dibuat
-   on-demand oleh koordinator. Tidak ada agent merk luar, tidak ada akun
+   on-demand oleh koordinator. Tidak ada agent merek luar, tidak ada akun
    tambahan, tidak ada login baru.
 
 ## Arsitektur (hub-and-spoke)
