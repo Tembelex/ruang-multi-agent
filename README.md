@@ -1,7 +1,7 @@
 # Ruang Multi-Agent — Sub-Agent Muse Saja
 
 Edisi Gratis (Rp0). Satu ruang kerja tempat beberapa AI agent mengerjakan
-satu tugas bersama — tanpa agent merk luar, tanpa akun tambahan, tanpa biaya.
+satu tugas bersama — tanpa agent merek luar, tanpa akun tambahan, tanpa biaya.
 
 Keputusan desain (22 November 2026): ruang ini diisi **hanya oleh sub-agent
 Muse**, dengan Muse utama sebagai koordinator. Pola ini sudah terbukti
@@ -33,7 +33,8 @@ bekerja paralel di background, dan hasilnya selalu kembali ke koordinator.
    user (tanggal, angka, tautan), lalu menyerahkan hasil akhir.
 
 Papan status bersama ada di `TASKS.md`. Rancangan lengkapnya ada di
-`docs/rancangan.md`.
+`docs/rancangan-ruang-multi-agent.pdf`, ringkasannya di `docs/rancangan.md`,
+dan template siap pakainya di folder `templates/`.
 
 ## Gerbang persetujuan user
 
@@ -64,4 +65,5 @@ Aksi berikut selalu berhenti dan menunggu persetujuan user dulu:
 - [x] Rancangan selesai (lihat `docs/rancangan.md`)
 - [x] Peran agent ditetapkan
 - [x] Protokol kontrak + serah-terima ditetapkan
-- [ ] Tugas pertama dijalankan lewat ruang ini
+- [x] Tugas pertama dijalankan lewat ruang ini (tim Riset + Builder + Checker, 22 Nov 2026)
+- [ ] Tugas berikutnya dari user
